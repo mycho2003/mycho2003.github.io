@@ -6,7 +6,6 @@ permalink: /publication/2026-06-01-stochastic-matching-batch-allocations
 excerpt: 'A variant of stochastic matching in which agents receive batches of items: hardness-of-approximation results via new reductions, together with randomized approximation algorithms beating the classical 1 - 1/e ratio.'
 date: 2026-06-01
 venue: 'Undergraduate honors thesis, Stanford University'
-citation: 'Michael Cho. &quot;Stochastic Matching with Batch Allocations.&quot; Undergraduate honors thesis, Stanford University, advised by Jan Vondrák. Work in progress.'
 ---
 
 This project defines and studies a variation on stochastic matching problems in which agents receive *batches* of items rather than single items. The problem originated as a variant of online stochastic matching, but the offline version turns out to be an interesting variation on submodular welfare maximization in its own right.
