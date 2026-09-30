@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign teaching_entries = site.teaching | sort: 'date' | reverse %}
+{% for post in teaching_entries %}
+  <h2>{{ post.title }}</h2><hr />
+  <p><i>{{ post.type }}, {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></p>
+  {{ post.content | markdownify }}
 {% endfor %}
