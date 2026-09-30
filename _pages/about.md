@@ -21,13 +21,6 @@ Research interests
 * Algorithmic game theory and resource allocation in markets
 * Combinatorics and enumeration (meanders, self-avoiding walks, heapable permutations)
 
-News
-======
-* **September 2026** — Starting the Stevens Doctoral Program at Chicago Booth.
-* **October 2025** — Gave a talk on *Efficient Matching Under Distributional Constraints* at Stanford.
-* **2025** — *Optimal Constructions for DNA Self-Assembly of $k$-Regular Graphs* was accepted for publication in *Involve*; a preprint is on [arXiv](https://arxiv.org/abs/2502.03716).
-* **2025** — Represented Stanford at the ICPC North America Championships, after placing 5th at the Pacific Northwest Regionals.
-
 Contact
 ======
 The best way to reach me is by email at [mcho2@chicagobooth.edu](mailto:mcho2@chicagobooth.edu).
